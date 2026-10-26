@@ -1,0 +1,19 @@
+{
+  "name": "Win95 지뢰찾기",
+  "short_name": "지뢰찾기",
+  "description": "Windows 95 클래식 오프라인 지뢰찾기",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#008080",
+  "theme_color": "#000080",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
